@@ -1,5 +1,5 @@
 # outliers_-_matrizes.github.io
-Este é um projeto para identificação de 'outliers' e para o cálculo de matrizes de correlação e covariância usando o R. 
+Este é um projeto para identificação de 'outliers' e para o cálculo de matrizes de correlação e de covariância usando o R. 
 
 # Identificação algébrica e gráfica de outliers 6 sigma
 
