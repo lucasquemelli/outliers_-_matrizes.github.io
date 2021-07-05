@@ -33,7 +33,7 @@ Abaixo, o resultado:
 
 ![image](https://user-images.githubusercontent.com/81119854/124472759-e1d96e00-dd74-11eb-83cc-673b63cd6247.png)
 
-# Correção entre as variáveis
+# Correlação entre as variáveis
 
 Para entender e visualizar a correlação das variáveis entre si, foi plotado o gráfico abaixo:
 
